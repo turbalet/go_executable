@@ -1,2 +1,6 @@
+github.com/jakehl/goid v1.1.0 h1:c08GO8z16wWJtfQhyiD8BQRFkpf1oDxaPmA+uYAG+50=
+github.com/jakehl/goid v1.1.0/go.mod h1:V6bQh+tr2Oay5WHL0jmTTJWrABYIO+cs4/P6e1prV1o=
 github.com/turbalet/go_lib v1.0.1 h1:x/hCjSIWf1Lb3nzp7fHQ6k/F4F6BeO0/+9QHclWsPXA=
 github.com/turbalet/go_lib v1.0.1/go.mod h1:YM+JqDfUErjogY1p627YBP/cvQrlJCpAZuvGNVJmc2o=
+github.com/turbalet/go_lib v1.0.2 h1:AvWqyG+RObN3WjOKVJ1AhaZmYbUpdQ2B0aZnU2kSFa0=
+github.com/turbalet/go_lib v1.0.2/go.mod h1:JSNhAyttRF3wA5OI7XhHYdzquGhrX83+SV1Bl10uU+Y=
