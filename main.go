@@ -10,8 +10,9 @@ func main() {
 	c := 'a'
 	c = go_lib.ChangeCase(c)
 	if unicode.IsUpper(c) {
-		fmt.Print("Changed to upper case")
+		fmt.Println("Changed to upper case")
 	}
 
-	
+	x1, x2 := go_lib.FindRoots(10, 15, -25)
+	fmt.Println(x1, x2)
 }
